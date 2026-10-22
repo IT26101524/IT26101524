@@ -1,76 +1,69 @@
 <div align="center">
 
-# Poojana Kaveesh
+<img src="./assets/profile-header.svg" alt="Poojana Kaveesh — Software Engineering, Applied AI and Security. An architectural engineering banner." width="100%" />
 
-### Software Engineering · Applied AI · Cybersecurity
+### BSc (Hons) Information Technology Undergraduate · SLIIT, Sri Lanka
 
-**BSc (Hons) in Information Technology undergraduate at SLIIT**  
-Building thoughtful, secure software — from distributed backend systems to student-focused products.
+I develop and study **backend platforms, secure applications and AI-enabled products** — with an emphasis on architecture, practical verification and user experience.
 
-[![Academic GitHub](https://img.shields.io/badge/GitHub-IT26101524-151B2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IT26101524)
-[![Engineering Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://poojana-portfolio.vercel.app/)
-[![Primary GitHub](https://img.shields.io/badge/More%20Projects-teldigi5--wq-293449?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq)
+[**Portfolio ↗**](https://poojana-portfolio.vercel.app/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) &nbsp;·&nbsp; [**Engineering GitHub ↗**](https://github.com/teldigi5-wq) &nbsp;·&nbsp; [**CV ↗**](https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf)
+
+**Open to software engineering, backend and platform engineering internships.**
 
 </div>
 
 ---
 
-## About
+## Engineering, with evidence
 
-I'm an IT undergraduate who enjoys designing systems that have to work beyond a demo: clear architecture, careful data handling, reliable testing, and interfaces that respect their users.
+I'm Poojana — an IT undergraduate interested in the intersection of **distributed systems, application security and applied AI**. My work spans Java services, Python, full-stack web applications and embedded systems. I value explicit trust boundaries, testable behavior, understandable failure modes and clear documentation.
 
-My interests span **backend and distributed systems**, **AI-enabled applications**, **authorization and application security**, and **full-stack product development**. I'm building my engineering foundation through coursework, experiments, and real projects — and documenting what works, what is still in progress, and what needs verification.
+This is my **SLIIT student GitHub account**. Most of my publicly reviewable engineering projects are published on my separate [primary GitHub account](https://github.com/teldigi5-wq); they are linked below rather than duplicated here.
 
-## Selected engineering work
+## Selected projects
 
-The projects below are public on my [primary engineering account](https://github.com/teldigi5-wq). This student account is a separate space for academic and focused development work.
+| Project | What it demonstrates | Evidence and scope |
+| :--- | :--- | :--- |
+| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)**<br/>*Distributed backend and AI-system foundations* | Java/Spring Boot services, identity boundaries, messaging, persistence and observability. | [Architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md). Hardware-backed integration validation remains in progress. |
+| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-website)**<br/>*IoT and responsible telemetry* | Arduino/ESP8266 sensing, Firebase telemetry and a web dashboard that distinguishes live from last-recorded readings. | [System source](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) · [Website](https://github.com/teldigi5-wq/floodguard-website). Educational prototype, not an emergency-warning system. |
+| **[FinalForge](https://github.com/teldigi5-wq/finalforge)**<br/>*Student product and secure onboarding* | Revision workflows, mock assessments, allowlisted student access, email verification and Firebase integration. | [Repository](https://github.com/teldigi5-wq/finalforge) · [Checks](https://github.com/teldigi5-wq/finalforge/actions). Access-control assurance requires deployment-level review. |
+| **[SENTINEL](https://github.com/teldigi5-wq/sentinel-security-platform)**<br/>*Security engineering lab* | Signed event ingestion, replay defenses, deterministic detection and traceable evidence workflows. | [Threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) · [Tests](https://github.com/teldigi5-wq/sentinel-security-platform/tree/main/backend/tests). Local pre-production research, not an endpoint-security product. |
+| **[Averis AI](https://github.com/teldigi5-wq/averis-ai)**<br/>*Reviewable AI-adjacent analysis* | Document comparison, API workflows and private analysis-history design. | [Architecture](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ARCHITECTURE.md) · [CI](https://github.com/teldigi5-wq/averis-ai/actions). Similarity is not proof of plagiarism or AI authorship. |
 
-| Project | Engineering focus |
-| :-- | :-- |
-| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Java/Spring Boot services, identity boundaries, distributed messaging, observability, and deployment foundations. |
-| **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Student revision and assessment platform, with verified access workflows and Firebase-backed services. |
-| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-website)** | Educational IoT flood-monitoring prototype, sensor telemetry, and a responsive dashboard with explicit data-freshness states. |
-| **[SENTINEL](https://github.com/teldigi5-wq/sentinel-security-platform)** | Pre-production security-event ingestion, deterministic detection, traceable evidence, and local-first research. |
-| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Accessible travel-planning product with clear boundaries between illustrative research and live provider data. |
+### Current focus — Aetheris BoundaryLab
 
-> **Current focus:** Aetheris BoundaryLab — exploring reproducible authorization-security checks for SaaS applications. Early-stage development; no production or commercial-readiness claim.
+Exploring an **authorization-security verification platform** for SaaS applications: checking whether users, roles and tenants can access only what they should. The direction prioritizes **reproducible evidence, safe test execution, least-privilege integration and developer-friendly reports**.
 
-## Technologies I'm using and learning
+*Status: early-stage product engineering and CI experiments. Commercial readiness, coverage and security efficacy have not been established.*
 
-<div align="center">
+## Technical toolkit
 
-![Java](https://img.shields.io/badge/Java-1A2238?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1A2238?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-1A2238?style=flat-square&logo=python&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A2238?style=flat-square&logo=typescript&logoColor=60A5FA)
-![React](https://img.shields.io/badge/React-1A2238?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1A2238?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A2238?style=flat-square&logo=postgresql&logoColor=93C5FD)
-![Firebase](https://img.shields.io/badge/Firebase-1A2238?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Docker](https://img.shields.io/badge/Docker-1A2238?style=flat-square&logo=docker&logoColor=60A5FA)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1A2238?style=flat-square&logo=githubactions&logoColor=60A5FA)
+**Backend &amp; architecture**  
+![Java](https://img.shields.io/badge/Java-152B3D?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-152B3D?style=flat-square&logo=springboot&logoColor=74C971) ![Python](https://img.shields.io/badge/Python-152B3D?style=flat-square&logo=python&logoColor=F0D27B) ![FastAPI](https://img.shields.io/badge/FastAPI-152B3D?style=flat-square&logo=fastapi&logoColor=7ED2BD) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-152B3D?style=flat-square&logo=postgresql&logoColor=89BDED) ![Docker](https://img.shields.io/badge/Docker-152B3D?style=flat-square&logo=docker&logoColor=86C8F1)
 
-</div>
+**Product &amp; frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-152B3D?style=flat-square&logo=typescript&logoColor=87B8F9) ![React](https://img.shields.io/badge/React-152B3D?style=flat-square&logo=react&logoColor=8CDAEC) ![Next.js](https://img.shields.io/badge/Next.js-152B3D?style=flat-square&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-152B3D?style=flat-square&logo=firebase&logoColor=F2C478)
 
-## How I approach engineering
+**Delivery, quality &amp; security**  
+`Git & GitHub Actions` · `CI testing` · `REST APIs` · `JWT / access control` · `Threat modeling` · `Observability`
 
-- **Security by design:** authorization, least privilege, input validation, and responsible secret handling.
-- **Evidence over claims:** clear implementation status, reproducible tests, and documented limitations.
-- **Architecture that can evolve:** maintainable boundaries, observability, and careful trade-offs.
-- **User-centered delivery:** responsive interfaces, accessibility, and realistic operational states.
+<sub>Technologies reflect project use and areas under active study, not claims of professional certification or mastery.</sub>
 
-## Currently learning
+## Engineering principles
 
-- Deeper application-security testing, especially broken access control and role/tenant isolation.
-- Production-minded backend engineering and CI-based verification.
-- Practical AI integration with explicit data, safety, and reliability boundaries.
+- **Design for trust:** validate inputs, define authorization boundaries and minimize privileges.
+- **Make behavior verifiable:** keep tests, architecture notes and limitations alongside source code.
+- **Build for users:** design accessible, responsive experiences with transparent system states.
+- **Keep improving:** evaluate trade-offs, review failure cases and strengthen implementations incrementally.
 
 ---
 
 <div align="center">
 
-**Interested in the work?** Explore the [portfolio](https://poojana-portfolio.vercel.app/) or browse the [main project repositories](https://github.com/teldigi5-wq?tab=repositories).
+**Let's build software that stands up to scrutiny.**
 
-<sub>Building in public where appropriate · Projects may be prototypes or works in progress</sub>
+[Portfolio](https://poojana-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) · [Contact via email](mailto:teldigi5@gmail.com)
+
+<sub>Student account: <a href="https://github.com/IT26101524">IT26101524</a> · Primary engineering account: <a href="https://github.com/teldigi5-wq">teldigi5-wq</a></sub>
 
 </div>
