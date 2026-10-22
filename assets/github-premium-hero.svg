@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="385" viewBox="0 0 1400 385" role="img" aria-labelledby="heroTitle heroDesc">
+<title id="heroTitle">Poojana Kaveesh — engineering with purpose</title>
+<desc id="heroDesc">GitHub graphite and platinum profile hero, with elegant jade orbit lines surrounding a PK monogram. Subtle, accessible animations express thoughtful software engineering.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0D1117"/><stop offset=".55" stop-color="#131A22"/><stop offset="1" stop-color="#0B1016"/>
+ </linearGradient>
+ <radialGradient id="ambient" cx=".78" cy=".5" r=".52">
+  <stop offset="0" stop-color="#25614D" stop-opacity=".22"/><stop offset=".55" stop-color="#164032" stop-opacity=".055"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+ </radialGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#F0F6FC"/><stop offset=".58" stop-color="#D5E0E7"/><stop offset="1" stop-color="#A7B6C4"/>
+ </linearGradient>
+ <linearGradient id="jade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#4B987B"/><stop offset=".48" stop-color="#9CE6C6"/><stop offset="1" stop-color="#55B995"/>
+ </linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#81D8B3" stop-opacity="0"/><stop offset=".5" stop-color="#9CE6C6" stop-opacity=".9"/><stop offset="1" stop-color="#81D8B3" stop-opacity="0"/>
+ </linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="9" stdDeviation="15" flood-color="#02070A" flood-opacity=".55"/></filter>
+ <pattern id="lines" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#8B949E" stroke-opacity=".045" stroke-width="1"/></pattern>
+ <clipPath id="rounded"><rect x="1" y="1" width="1398" height="383" rx="17"/></clipPath>
+ <style>
+  .ui{font-family:Arial,Helvetica,sans-serif}
+  .orbit{transform-origin:1090px 191px;animation:orbit 48s linear infinite}
+  .counter{transform-origin:1090px 191px;animation:counter 64s linear infinite}
+  .float{animation:lift 9s ease-in-out infinite}
+  .breath{animation:breath 5s ease-in-out infinite}
+  .trace{stroke-dasharray:7 15;animation:trace 15s linear infinite}
+  .glint{animation:glint 8s ease-in-out infinite}
+  @keyframes orbit{to{transform:rotate(360deg)}}
+  @keyframes counter{to{transform:rotate(-360deg)}}
+  @keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+  @keyframes breath{0%,100%{opacity:.4}50%{opacity:1}}
+  @keyframes trace{to{stroke-dashoffset:-352}}
+  @keyframes glint{0%,100%{opacity:.18}52%{opacity:.78}}
+  @media (prefers-reduced-motion:reduce){.orbit,.counter,.float,.breath,.trace,.glint{animation:none!important}}
+ </style>
+</defs>
+<g clip-path="url(#rounded)">
+ <rect width="1400" height="385" fill="url(#bg)"/>
+ <rect width="1400" height="385" fill="url(#ambient)"/>
+ <rect width="1400" height="385" fill="url(#lines)"/>
+ <path d="M58 57H1342" stroke="#30363D" stroke-width="1"/>
+ <path d="M58 327H1342" stroke="#30363D" stroke-width="1"/>
+ <path class="glint" d="M58 327H690" stroke="url(#line)" stroke-width="2.1"/>
+ <circle cx="77" cy="33" r="4" fill="#90DAB9"/>
+ <text x="92" y="37" class="ui" font-size="12" font-weight="700" fill="#BDCEC8" letter-spacing="2.6">ENGINEERING / STUDENT PORTFOLIO</text>
+ <text x="1342" y="37" class="ui" font-size="11" fill="#83919C" letter-spacing="2.6" text-anchor="end">SLIIT   •   SRI LANKA</text>
+ <text x="67" y="146" class="ui" font-size="64" font-weight="750" fill="url(#metal)" letter-spacing="-2.1">Poojana Kaveesh</text>
+ <rect x="68" y="168" width="83" height="3" rx="1.5" fill="url(#jade)"/>
+ <text x="67" y="208" class="ui" font-size="18" fill="#C2D1D9" font-weight="600" letter-spacing=".6">Software Engineering  /  Applied AI  /  Security</text>
+ <text x="67" y="252" class="ui" font-size="17" fill="#98A8B4">Building reliable systems and thoughtful digital experiences.</text>
+ <text x="67" y="290" class="ui" font-size="15" fill="#8D9CA8">BACKEND SYSTEMS</text>
+ <circle cx="259" cy="284" r="2.4" fill="#6DBB9A"/>
+ <text x="277" y="290" class="ui" font-size="15" fill="#8D9CA8">SECURITY BY DESIGN</text>
+ <circle cx="472" cy="284" r="2.4" fill="#6DBB9A"/>
+ <text x="490" y="290" class="ui" font-size="15" fill="#8D9CA8">EVIDENCE-DRIVEN</text>
+ <text x="67" y="355" class="ui" font-size="11" fill="#7F909B" letter-spacing="2.1">IT26101524  /  DEVELOPING WITH INTENTION</text>
+ <text x="1341" y="355" text-anchor="end" class="ui" font-size="11" fill="#7F909B" letter-spacing="2.1">DESIGN  ·  BUILD  ·  VERIFY</text>
+ <g filter="url(#shadow)" class="float">
+  <circle cx="1090" cy="191" r="127" fill="#101A20" fill-opacity=".85" stroke="#344A48" stroke-width="1.5"/>
+  <circle cx="1090" cy="191" r="104" fill="#132128" fill-opacity=".80" stroke="#658A7C" stroke-opacity=".65"/>
+  <circle cx="1090" cy="191" r="81" fill="#101A20" stroke="#273E39"/>
+ </g>
+ <g class="orbit">
+  <ellipse cx="1090" cy="191" rx="166" ry="110" fill="none" stroke="#568F7B" stroke-width="1.2" stroke-dasharray="5 13" opacity=".60" transform="rotate(-24 1090 191)"/>
+  <circle cx="1255" cy="191" r="4" fill="#9CE6C6"/>
+ </g>
+ <g class="counter">
+  <ellipse cx="1090" cy="191" rx="142" ry="151" fill="none" stroke="#80978F" stroke-opacity=".42" stroke-width="1" stroke-dasharray="2 13" transform="rotate(17 1090 191)"/>
+  <circle cx="1090" cy="40" r="3.7" fill="#9CE6C6"/>
+ </g>
+ <path class="trace" d="M915 190C1006 110 1166 109 1275 190" stroke="url(#line)" fill="none" stroke-width="2.3" opacity=".86"/>
+ <path class="trace" d="M911 206C1009 286 1168 287 1271 204" stroke="#7CCCAA" stroke-opacity=".33" fill="none" stroke-width="1.1"/>
+ <g filter="url(#shadow)">
+  <circle cx="1090" cy="191" r="69" fill="#0D171C" stroke="#55786A" stroke-width="1.3"/>
+  <text x="1090" y="205" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="54" font-weight="700" fill="#E2EDEF" letter-spacing="-3">PK</text>
+  <path d="M1055 222H1125" stroke="url(#jade)" stroke-width="2" opacity=".77"/>
+ </g>
+ <g class="breath">
+   <circle cx="895" cy="116" r="3" fill="#9CE6C6"/>
+   <circle cx="1294" cy="271" r="2.8" fill="#87CAA9"/>
+ </g>
+ <g>
+  <rect x="1209" y="76" width="125" height="32" rx="16" fill="#18252A" stroke="#3E6457"/>
+  <circle cx="1227" cy="92" r="3" fill="#91E0BC"/>
+  <text x="1240" y="96" class="ui" font-size="10.5" fill="#BAD7C8" letter-spacing="1.2">BUILD</text>
+  <rect x="845" y="276" width="138" height="32" rx="16" fill="#18252A" stroke="#3E6457"/>
+  <circle cx="863" cy="292" r="3" fill="#91E0BC"/>
+  <text x="876" y="296" class="ui" font-size="10.5" fill="#BAD7C8" letter-spacing="1.2">VERIFY</text>
+ </g>
+</g>
+<rect x="1" y="1" width="1398" height="383" rx="17" fill="none" stroke="#30363D" stroke-width="1.5"/>
+</svg>
