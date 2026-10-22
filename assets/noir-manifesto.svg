@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-labelledby="t d">
+<title id="t">Poojana Noir — selected discipline</title><desc id="d">Animated editorial divider announcing design, engineering and trust.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#101113"/><stop offset=".5" stop-color="#171718"/><stop offset="1" stop-color="#101113"/></linearGradient>
+ <linearGradient id="beam"><stop stop-color="#b18b55" stop-opacity="0"/><stop offset=".5" stop-color="#f4dcb5" stop-opacity="1"/><stop offset="1" stop-color="#b18b55" stop-opacity="0"/></linearGradient>
+ <style>.glint{animation:glow 9s ease-in-out infinite}.dot{animation:blink 4s ease-in-out infinite}@keyframes glow{0%,100%{opacity:.27}50%{opacity:.75}}@keyframes blink{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.glint,.dot{animation:none!important}}</style>
+</defs>
+<rect width="1200" height="125" rx="6" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="123" rx="6" stroke="#7b6951" stroke-opacity=".4" fill="none"/>
+<path d="M65 34H1135M65 91H1135" stroke="#806f58" stroke-opacity=".35"/>
+<path class="glint" d="M345 34H855" stroke="url(#beam)" stroke-width="2"/>
+<path class="glint" d="M345 91H855" stroke="url(#beam)" stroke-width="2"/>
+<circle class="dot" cx="105" cy="62" r="3" fill="#edcc99"/>
+<circle class="dot" cx="1094" cy="62" r="3" fill="#edcc99"/>
+<g font-family="Georgia,'Times New Roman',serif" fill="#e9dfcf" font-size="30" text-anchor="middle">
+ <text x="335" y="74">Imagine.</text><text x="600" y="74" font-style="italic" fill="#ebc898">Engineer.</text><text x="859" y="74">Validate.</text>
+</g>
+</svg>
