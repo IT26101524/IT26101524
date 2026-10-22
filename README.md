@@ -1,65 +1,77 @@
-# Poojana Kaveesh
+<div align="center">
 
-**Software Engineering Undergraduate | Backend Development · Applied AI · Application Security**
+<img src="./assets/github-premium-hero.svg" alt="Poojana Kaveesh — professional graphite and jade animated GitHub banner with a subtle orbiting PK monogram." width="100%" />
 
-BSc (Hons) Information Technology undergraduate at **SLIIT, Sri Lanka**. I build and study software with a focus on clear architecture, secure design, practical testing, and thoughtful user experiences.
+**BSc (Hons) Information Technology Undergraduate · SLIIT, Sri Lanka**
 
-[Portfolio](https://poojana-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) · [Resume](https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf) · [Primary GitHub](https://github.com/teldigi5-wq)
+*Backend engineering · Applied AI · Application security · Full-stack products*
 
-**Open to software engineering and backend/platform engineering internships.**
+<p>
+  <a href="https://poojana-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&amp;logo=vercel&amp;logoColor=F0F6FC" /></a>
+  <a href="https://www.linkedin.com/in/poojana-kaveesh-3048b8387"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&amp;logo=linkedin&amp;logoColor=A7D9C5" /></a>
+  <a href="https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-161B22?style=flat-square&amp;logo=readme&amp;logoColor=F0F6FC" /></a>
+  <a href="https://github.com/teldigi5-wq"><img alt="Engineering projects" src="https://img.shields.io/badge/Engineering_GitHub-161B22?style=flat-square&amp;logo=github&amp;logoColor=A7D9C5" /></a>
+</p>
 
----
+**Open to software engineering, backend, and platform engineering internships.**
 
-## About me
-
-I'm interested in how reliable systems are designed, secured, and delivered — from **Java/Spring Boot backend services** to **full-stack applications, AI integration, and IoT**.
-
-This is my **academic GitHub account**. Most of my public engineering projects and implementation evidence are available through [teldigi5-wq](https://github.com/teldigi5-wq).
-
-## Selected projects
-
-| Project | Focus | Explore |
-| --- | --- | --- |
-| **Aetheris Platform** | Java and Spring Boot services, identity, messaging, observability, and platform architecture. Integration verification is ongoing. | [Source](https://github.com/teldigi5-wq/aetheris-platform) · [Architecture](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) |
-| **FinalForge** | Student learning platform with verified onboarding, practice assessments, and Firebase integration. | [Source](https://github.com/teldigi5-wq/finalforge) · [CI](https://github.com/teldigi5-wq/finalforge/actions) |
-| **FloodGuard** | Educational Arduino/ESP8266 IoT prototype with water-level telemetry and a responsive monitoring dashboard. Not a certified warning system. | [Website source](https://github.com/teldigi5-wq/floodguard-website) · [Telemetry source](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) |
-| **SENTINEL** | Early-stage security operations research covering signed event ingestion, detections, and evidence tracking. | [Source](https://github.com/teldigi5-wq/sentinel-security-platform) · [Threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) |
-
-For other projects, see my [engineering repositories](https://github.com/teldigi5-wq?tab=repositories).
-
-## Technologies
-
-**Backend & data**
-
-![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend & infrastructure**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-24292F?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=flat-square&logo=githubactions&logoColor=white)
-
-*These technologies reflect project experience and active learning, not professional certification.*
-
-## Currently exploring
-
-**Aetheris BoundaryLab** — early-stage research into repeatable authorization testing for role-based and multi-tenant applications. My priorities are safe test execution, meaningful evidence, and integration with developer workflows. Production readiness and security effectiveness have not been established.
-
-## Engineering principles
-
-- **Keep security fundamental.** Define trust boundaries, validate inputs, and apply least privilege.
-- **Make work reviewable.** Document decisions, write tests, and clearly identify remaining limitations.
-- **Design for real users.** Value accessibility, reliable behavior, maintainability, and clear feedback.
+</div>
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) · [Email](mailto:teldigi5@gmail.com) · [Portfolio](https://poojana-portfolio.vercel.app/)
+## About
 
-<sub>Student account: [IT26101524](https://github.com/IT26101524) · Main engineering account: [teldigi5-wq](https://github.com/teldigi5-wq)</sub>
+I'm **Poojana**, an Information Technology undergraduate at **SLIIT**. I enjoy engineering applications with clear architecture, robust access controls, verifiable behavior, and a polished experience for real users.
+
+This is my **student GitHub account**. Most public engineering work is hosted separately on my [primary account](https://github.com/teldigi5-wq), and I link directly to the project evidence below.
+
+## Selected engineering work
+
+| Project | Engineering focus | Inspect |
+| :--- | :--- | :--- |
+| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Java/Spring Boot backend services, identity boundaries, asynchronous messaging and observability. Runtime integration validation continues. | [Architecture](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) |
+| **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Student learning platform with verified academic onboarding, assessments and Firebase integration. | [Source](https://github.com/teldigi5-wq/finalforge) · [CI](https://github.com/teldigi5-wq/finalforge/actions) |
+| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-website)** | Educational Arduino/ESP8266 IoT prototype, Firebase telemetry, and a responsive monitoring dashboard. Not a certified flood-warning system. | [Website](https://github.com/teldigi5-wq/floodguard-website) · [Telemetry](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) |
+| **[SENTINEL](https://github.com/teldigi5-wq/sentinel-security-platform)** | Local-first security research: authenticated telemetry, deterministic alert rules and reviewable event evidence. Pre-production. | [Threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) · [Tests](https://github.com/teldigi5-wq/sentinel-security-platform/tree/main/backend/tests) |
+
+## Technical toolkit
+
+<div align="center">
+
+**Backend &amp; systems**
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,docker,linux&amp;theme=dark" alt="Java, Spring Boot, Python, FastAPI, PostgreSQL, Redis, Docker, and Linux" />
+
+<br />
+
+**Frontend &amp; product development**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,flutter&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS, and Flutter" />
+
+<br />
+
+**Cloud &amp; developer tools**
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,git,github,vscode,arduino,vite&amp;theme=dark" alt="AWS, Firebase, Supabase, Git, GitHub, VS Code, Arduino, and Vite" />
+
+</div>
+
+<sub>Tools reflect project usage and subjects currently being studied, not vendor certification or expertise in every tool.</sub>
+
+## Current direction
+
+**Aetheris BoundaryLab** — early-stage research into reproducible authorization testing for role-based and multi-tenant SaaS applications, with emphasis on safe verification, meaningful evidence and CI integration. Security coverage and production readiness remain unverified.
+
+## Engineering values
+
+**Security by design** · **Evidence over assumptions** · **Accessible user experiences** · **Maintainable architecture**
+
+---
+
+<div align="center">
+
+[Portfolio](https://poojana-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) · [Email](mailto:teldigi5@gmail.com) · [Main projects](https://github.com/teldigi5-wq?tab=repositories)
+
+<sub>IT26101524 — Academic GitHub · Poojana Kaveesh</sub>
+
+</div>
