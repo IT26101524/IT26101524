@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="370" viewBox="0 0 1320 370" role="img" aria-labelledby="title desc">
+  <title id="title">Poojana Kaveesh — software engineering, applied AI and security</title>
+  <desc id="desc">An understated midnight-blue engineering profile banner with a gold monogram, architectural signal lines and connected service cards.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1523"/>
+      <stop offset="0.62" stop-color="#101F30"/>
+      <stop offset="1" stop-color="#07111D"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0.78" cy="0.46" r="0.65">
+      <stop offset="0" stop-color="#54B4CF" stop-opacity="0.15"/>
+      <stop offset="0.55" stop-color="#266887" stop-opacity="0.035"/>
+      <stop offset="1" stop-color="#07111D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E7D1A0"/>
+      <stop offset="1" stop-color="#B9935E"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8DDAEA"/>
+      <stop offset="1" stop-color="#3B839E"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#D8E6F4" stroke-opacity="0.048" stroke-width="1"/>
+    </pattern>
+    <filter id="soft-shadow" x="-25%" y="-35%" width="150%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#030A12" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="1320" height="370" fill="url(#background)"/>
+  <rect width="1320" height="370" fill="url(#light)"/>
+  <rect width="1320" height="370" fill="url(#grid)"/>
+  <path d="M0 0H1320" stroke="#DBCA9C" stroke-opacity="0.65" stroke-width="3"/>
+  <path d="M0 369H1320" stroke="#88C7D9" stroke-opacity="0.27"/>
+  <path d="M714 42V327" stroke="#B2D4DB" stroke-opacity="0.13"/>
+  <rect x="58" y="50" width="56" height="56" rx="12" fill="#16293B" stroke="#DCC99A" stroke-opacity="0.56"/>
+  <path d="M74 88V68H86C96 68 96 81 86 81H74 M94 68V88 M94 77L105 68 M94 77L105 88" stroke="url(#accent)" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="130" y="75" fill="#E8CFA3" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3.2">ENGINEERING PROFILE</text>
+  <text x="130" y="96" fill="#98ACBF" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.2">SRI LANKA  /  SLIIT</text>
+  <text x="58" y="186" fill="#F1F6FB" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" letter-spacing="-1.25">Poojana Kaveesh</text>
+  <rect x="59" y="206" width="67" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="58" y="244" fill="#B8CCD9" font-family="Arial,Helvetica,sans-serif" font-size="16.5" font-weight="500" letter-spacing="1.65">SOFTWARE ENGINEERING  ·  APPLIED AI  ·  SECURITY</text>
+  <text x="59" y="287" fill="#7F9BB0" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="0.3">Building systems that are secure, understandable, and verifiable.</text>
+  <text x="59" y="335" fill="#BDCDD9" font-family="Arial,Helvetica,sans-serif" font-size="11.5" letter-spacing="2">ARCHITECTURE   /   TRUST BOUNDARIES   /   EVIDENCE</text>
+  <g fill="none" stroke="#6AB8CE" stroke-opacity="0.23" stroke-width="1.4" stroke-dasharray="4 6">
+    <path d="M784 174H826V115H866"/>
+    <path d="M784 174H819V249H865"/>
+    <path d="M1097 115H1147V183"/>
+    <path d="M1097 249H1147V183"/>
+  </g>
+  <g fill="#8ACBDE">
+    <circle cx="784" cy="174" r="3" fill-opacity="0.9"/>
+    <circle cx="1147" cy="183" r="4" fill-opacity="0.9"/>
+    <circle cx="826" cy="115" r="2.5" fill-opacity="0.5"/>
+    <circle cx="819" cy="249" r="2.5" fill-opacity="0.5"/>
+  </g>
+  <rect x="861" y="75" width="238" height="83" rx="12" fill="#14283B" stroke="#609AAF" stroke-opacity="0.43" filter="url(#soft-shadow)"/>
+  <rect x="875" y="89" width="31" height="31" rx="7" fill="#1C4051"/>
+  <path d="M886 103L891 97L896 103L891 109Z" stroke="#88DAE8" stroke-width="1.7" fill="none"/>
+  <text x="921" y="104" font-family="Arial,Helvetica,sans-serif" font-size="14.3" font-weight="700" fill="#E9F3F9">Identity &amp; access</text>
+  <text x="921" y="123" font-family="Arial,Helvetica,sans-serif" font-size="11.4" fill="#88A9BA">Trust boundaries</text>
+  <path d="M876 141H1082" stroke="#E4D1AB" stroke-opacity="0.23"/>
+  <rect x="861" y="210" width="238" height="83" rx="12" fill="#14283B" stroke="#609AAF" stroke-opacity="0.43" filter="url(#soft-shadow)"/>
+  <rect x="875" y="224" width="31" height="31" rx="7" fill="#1C4051"/>
+  <path d="M882 240H899M890.5 232V248" stroke="#88DAE8" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="921" y="240" font-family="Arial,Helvetica,sans-serif" font-size="14.3" font-weight="700" fill="#E9F3F9">Services &amp; systems</text>
+  <text x="921" y="259" font-family="Arial,Helvetica,sans-serif" font-size="11.4" fill="#88A9BA">Reliability by design</text>
+  <path d="M876 276H1082" stroke="#E4D1AB" stroke-opacity="0.23"/>
+  <rect x="1135" y="146" width="136" height="75" rx="12" fill="#152C3C" stroke="#DCC99A" stroke-opacity="0.53"/>
+  <circle cx="1155" cy="171" r="8" stroke="url(#accent)" stroke-width="1.5" fill="none"/>
+  <path d="M1151 171L1154 174L1160 168" stroke="#DEC99E" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <text x="1173" y="175" font-family="Arial,Helvetica,sans-serif" font-size="12.7" fill="#F1E7D1" font-weight="700">VERIFY</text>
+  <text x="1151" y="198" font-family="Arial,Helvetica,sans-serif" font-size="10.8" fill="#88AAB9" letter-spacing="0.8">TEST  ·  REVIEW</text>
+  <text x="864" y="52" fill="#86A7B8" font-family="Arial,Helvetica,sans-serif" font-size="10.5" letter-spacing="2.1">SYSTEM DESIGN   /   001</text>
+  <text x="1269" y="343" text-anchor="end" fill="#8B9FAE" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">PK / IT26101524</text>
+</svg>
