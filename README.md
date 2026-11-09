@@ -79,3 +79,10 @@ This is my **student GitHub account**. Most public engineering work is hosted se
 ## AI/developer continuation — 9 November 2026
 
 See the [source-aware project handoff, milestones and safety checklist](docs/AI_CONTINUATION_2026-11-09.md). Re-check actual branch and PR HEAD SHAs, CI, and operational acceptance before continuing. This draft documentation is not a merge or production release.
+
+## AI continuation references — 9 November 2026
+- [Public recovery handoff](docs/AI_CONTINUATION_2026-11-09.md)
+- [Academic-account roadmap](docs/AI_ROADMAP_2026-11-09.md)
+- [Verified milestone checklist](docs/AI_MILESTONES_2026-11-09.md)
+
+Documentation-only [draft PR #1](https://github.com/IT26101524/IT26101524/pull/1); no release, claim of live readiness or private project publication.
