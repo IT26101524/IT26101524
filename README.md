@@ -75,3 +75,10 @@ This is my **student GitHub account**. Most public engineering work is hosted se
 <sub>IT26101524 — Academic GitHub · Poojana Kaveesh</sub>
 
 </div>
+
+
+---
+
+## AI continuity — education/testing account (9 Nov 2026)
+
+Read [the source-verified student-account handoff](docs/AI_HANDOFF_2026-11-09.md) before resuming. **This is an independent testing identity**, not the canonical product repository or authorization to deploy. Source snapshot: `1bd099964001` on `main`.
